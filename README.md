@@ -29,7 +29,7 @@ Funções
 Eventos
 
 - [x] Evento de carregamento do documento - onload
-- [ ] Evento de movimento do mouse
+- [X] Evento de movimento do mouse
 - [ ] Evento de teclado - usar charCode ou keyCode
 - [X] Eventos de formulário - onfocus e onblur
 - [ ] Imprimir alguma propriedade do objeto event recebido como parâmetro
