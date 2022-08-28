@@ -19,11 +19,11 @@ Funções
 
 - [X] Função anônima com argumento
 - [X] Função anônima sem argumento
-- [ ] Função anônima com retorno
+- [X] Função anônima com retorno
 - [X] Função auto-executável
 - [X] Função com nome
 - [ ] Função aninhada/local - declarar uma função dentro de outra
-- [ ] Passagem de uma função como parâmetro
+- [X] Passagem de uma função como parâmetro
 - [X] Função Flecha - Arrow Function
 
 Eventos
