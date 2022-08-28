@@ -1,19 +1,19 @@
-# GitHub Pages
+# prototipo
 
-<https://utfpr-gp.github.io/roubank/>
+https://www.figma.com/proto/RdCH4RcUorFIw6HVABjA3S/projeto-web2?node-id=15%3A341&scaling=min-zoom&page-id=1%3A10&starting-point-node-id=3%3A2
 
 # Checkist
 
 Caixas de Diálogo
 
-- [x] prompt
-- [x] alert
-- [x] confirm
+- [ ] prompt
+- [ ] alert
+- [ ] confirm
 
 Temporizadores
 
-- [x] setInterval
-- [x] setTimeout
+- [ ] setInterval
+- [ ] setTimeout
 
 Funções
 
