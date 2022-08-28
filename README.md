@@ -6,9 +6,9 @@ https://www.figma.com/proto/RdCH4RcUorFIw6HVABjA3S/projeto-web2?node-id=15%3A341
 
 Caixas de Diálogo
 
-- [ ] prompt
-- [ ] alert
-- [ ] confirm
+- [X] prompt
+- [X] alert
+- [X] confirm
 
 Temporizadores
 
