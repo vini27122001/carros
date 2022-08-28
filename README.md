@@ -24,7 +24,7 @@ Funções
 - [X] Função com nome
 - [ ] Função aninhada/local - declarar uma função dentro de outra
 - [ ] Passagem de uma função como parâmetro
-- [ ] Função Flecha - Arrow Function
+- [X] Função Flecha - Arrow Function
 
 Eventos
 
